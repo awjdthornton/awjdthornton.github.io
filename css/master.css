@@ -1,0 +1,11 @@
+h1 {
+  margin: 0;
+  line-height: 100px;
+}
+
+body {
+  margin: 0px;
+  background-color: WhiteSmoke;
+  text-align: left;
+  font-family: "Lucida Console", Monaco, monospace;
+}
